@@ -30,5 +30,4 @@ https://user-images.githubusercontent.com/56744953/95142157-0dc1b780-0741-11eb-9
 https://user-images.githubusercontent.com/56744953/95142393-99d3df00-0741-11eb-94c0-87b2a649a7ce.png
 
 <h4> Game Over Alert </h4>
-
-
+https://user-images.githubusercontent.com/56744953/95142469-c5ef6000-0741-11eb-9fc8-a90d3a92691f.png
