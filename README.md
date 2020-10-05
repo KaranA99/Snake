@@ -23,3 +23,4 @@ Index.html -
   
 <h2> Pictures </h2>
 <img src = /Users/kabic/Desktop/starting.jpg></img>
+![cheese](file:///C:/Users/kabic/Desktop/starting.JPG)
