@@ -22,5 +22,5 @@ Index.html -
   Ties all javascript scripts together to correctly run game
   
 <h2> Pictures </h2>
-<img src = /Users/kabic/Desktop/starting.jpg></img>
-![cheese](file:///C:/Users/kabic/Desktop/starting.JPG)
+![image](https://user-images.githubusercontent.com/56744953/95142157-0dc1b780-0741-11eb-9c0b-125b30622224.png)
+
