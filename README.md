@@ -1,5 +1,5 @@
 <h2> Snake Game </h2>
-
+<div>
 Coded in Javascript using HTML/CSS using canvas. Game is started when index.html is ran and use the arrow keys to move the snake around. The objective of the game is to eat all the pieces without touching the borders or hitting yourself. Everytime you eat a food, your snake gets bigger. 3 Javascript files were used to construct the game. The main javascript file containing the game design is coded in display.js. The snake attritbutes and functions is coded in snake.js. The pieces (food) for the snake is coded in pieces.js. 
 
 Display.js - 
@@ -20,6 +20,8 @@ Pieces.js -
 Index.html - 
   Declares canvas element
   Ties all javascript scripts together to correctly run game
+
+</div>
   
 <h2> Pictures </h2>
 
