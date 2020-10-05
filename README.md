@@ -22,4 +22,4 @@ Index.html -
   Ties all javascript scripts together to correctly run game
   
 <h2> Pictures </h2>
-<img src = \Users\kabic\Desktop\starting.jpg></img>
+<img src = /Users/kabic/Desktop/starting.jpg></img>
