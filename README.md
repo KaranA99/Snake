@@ -24,8 +24,11 @@ Index.html -
 <h2> Pictures </h2>
 
 <h4> Starting the Game </h4>
-(https://user-images.githubusercontent.com/56744953/95142157-0dc1b780-0741-11eb-9c0b-125b30622224.png)
+https://user-images.githubusercontent.com/56744953/95142157-0dc1b780-0741-11eb-9c0b-125b30622224.png
 
 <h4> How the Snake looks after eating food </h4>
+https://user-images.githubusercontent.com/56744953/95142393-99d3df00-0741-11eb-94c0-87b2a649a7ce.png
+
+<h4> Game Over Alert </h4>
 
 
